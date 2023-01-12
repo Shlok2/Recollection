@@ -9,4 +9,21 @@ It uses below frameworks ->
 5) OAuth 2.0 (for authentication)
 6) HTML
 7) CSS
-8) JS /(EJS)
+8) JS / (EJS)
+
+To SetUp on your local-environment ->
+1) cd to the location of project.
+2) npm install -> to install all Dependencies.
+3) Split the terminal into two parts (Feature of VSCode).
+4) In first terminal -> cd to client
+   In second terminal -> cd to server
+5) Run npm start in both 'client' and 'server'.
+6) Go to localhost:3000 for the website.
+
+(Note - Make a .env file in server folder first before 'npm start')
+(.env file format -> 
+  PORT = "PORT NUMBER" //3000
+  CONNECTION_URL = "MONGO URL STRING"
+  ( MONGO URL STRING -> SOMETHING LIKE -> mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.fbtloer.mongodb.net/?retryWrites=true&w=majority )
+)
+
