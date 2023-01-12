@@ -11,7 +11,7 @@ It uses below frameworks ->
 7) CSS
 8) JS / (EJS)
 
-To SetUp on your local-environment ->
+To SetUp in your local-environment ->
 1) cd to the location of project.
 2) npm install -> to install all Dependencies.
 3) Split the terminal into two parts (Feature of VSCode).
