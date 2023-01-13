@@ -22,7 +22,7 @@ To SetUp in your local-environment ->
 
 (Note - Make a .env file in server folder first before 'npm start')
 (.env file format -> 
-  PORT = "PORT NUMBER" //3000
+  PORT = "PORT NUMBER" //5000
   CONNECTION_URL = "MONGO URL STRING"
   ( MONGO URL STRING -> SOMETHING LIKE -> mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.fbtloer.mongodb.net/?retryWrites=true&w=majority )
 )
