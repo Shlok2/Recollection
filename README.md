@@ -27,3 +27,10 @@ To SetUp in your local-environment ->
   ( MONGO URL STRING -> SOMETHING LIKE -> mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.fbtloer.mongodb.net/?retryWrites=true&w=majority )
 )
 
+To add a new Functionality in Website (not OAuth) ->
+(In Server) -> routes(posts.js) > controllers(posts.js) to handle the whole route of req.
+(In Client) -> 1. make an api call to connect backend via frontend. (In api file)
+2. make an action and call api from within action as per use. (In Action folder)
+3. Form a reducer based on action. (In reducer folder)
+4. Call action function from any file you need by help of 'dispatch' from 'react-redux'
+
