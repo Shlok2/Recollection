@@ -34,3 +34,8 @@ This is a Full Stack web application project with a great UI. It is a combinatio
 3. Form a reducer based on action. (In reducer folder)
 4. Call action function from any file you need by help of 'dispatch' from 'react-redux'
 
+### My Future Ideas for this project ->
+1) To add a 404 error Page.
+2) To deploy this project Online.
+3) To add a share button on this website.
+
