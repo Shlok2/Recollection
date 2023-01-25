@@ -36,9 +36,10 @@ This is a Full Stack web application project with a great UI. It is a combinatio
 4. Call action function from any file you need by help of 'dispatch' from 'react-redux'
 
 ### My Future Ideas for this project ->
-1) To add a 404 error Page.
-2) To deploy this project Online.
-3) To add a share button on this website.
-4) (Side task - to make a video and upload on github).
-5) Add more posts in database.
+1) Add Search functionality. (✔️ Done)
+2) To add a 404 error Page. (✔️ Done)
+3) To deploy this project Online.
+4) To add a share button on this website.
+5) (Side task - to make a video and upload on github). (✔️ Done)
+6) Add more posts in database. (✔️ Done)
 
