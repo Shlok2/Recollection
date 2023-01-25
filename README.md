@@ -11,6 +11,9 @@ This is a Full Stack web application project with a great UI. It is a combinatio
 7) CSS
 8) JS / (EJS)
 
+## Video Link ->
+https://youtu.be/PmLUTY0sThk
+
 ## To SetUp in your local-environment ->
 1) cd to the location of project.
 2) npm install -> to install all Dependencies.
