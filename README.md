@@ -14,6 +14,7 @@ This is a Full Stack web application project with a great UI. It is a combinatio
 ## To SetUp in your local-environment ->
 1) cd to the location of project.
 2) npm install -> to install all Dependencies.
+   (npm install --legacy-peer-deps) because of later depreciation warning.
 3) Split the terminal into two parts (Feature of VSCode).
 4) In first terminal -> cd to client
    In second terminal -> cd to server
