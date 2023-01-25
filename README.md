@@ -16,11 +16,11 @@ https://youtu.be/PmLUTY0sThk
 
 ## To SetUp in your local-environment ->
 1) cd to the location of project.
-2) npm install -> to install all Dependencies.
-   (npm install --legacy-peer-deps) because of later depreciation warning.
-3) Split the terminal into two parts (Feature of VSCode).
-4) In first terminal -> cd to client
+2) Split the terminal into two parts (Feature of VSCode).
+3) In first terminal -> cd to client
    In second terminal -> cd to server
+4) npm install -> to install all Dependencies.
+   (npm install --legacy-peer-deps) because of later depreciation warning.
 5) Run npm start in both 'client' and 'server'.
 6) Go to localhost:3000 for the website.
 
