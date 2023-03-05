@@ -11,6 +11,9 @@ This is a Full Stack web application project with a great UI. It is a combinatio
 7) CSS
 8) JS / (EJS)
 
+## Deployed Link
+https://recollections.netlify.app
+
 ## Video Link ->
 https://youtu.be/PmLUTY0sThk
 
