@@ -41,7 +41,7 @@ https://youtu.be/PmLUTY0sThk
 3. Form a reducer based on action. (In reducer folder)
 4. Call action function from any file you need by help of 'dispatch' from 'react-redux'
 
-### My Future Ideas for this project ->
+### Future Ideas for this project ->
 1) Add Search functionality. (✔️ Done)
 2) To add a 404 error Page. (✔️ Done)
 3) To deploy this project Online.
