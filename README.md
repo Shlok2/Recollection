@@ -44,7 +44,7 @@ https://youtu.be/PmLUTY0sThk
 ### Future Ideas for this project ->
 1) Add Search functionality. (✔️ Done)
 2) To add a 404 error Page. (✔️ Done)
-3) To deploy this project Online.
+3) To deploy this project Online. (✔️ Done)
 4) To add a share button on this website.
 5) (Side task - to make a video and upload on github). (✔️ Done)
 6) Add more posts in database. (✔️ Done)
